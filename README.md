@@ -19,7 +19,7 @@ A clean, reproducible notebook for **question-answering over your documents**. I
 
 ## 🧩 Architecture (high level)
 
-```mermaid
+```
 flowchart LR
   A[Documents (data/)] --> B[Loader & Text Splitter]
   B --> C[Embeddings (Sentence-BERT / OpenAI)]
