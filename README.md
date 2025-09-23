@@ -1,9 +1,6 @@
 
 # Document Analysis with LLMs (RAG, Q&A)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<YOUR_GITHUB_USERNAME>/<YOUR_REPO>/blob/main/Document_Analysis_using_LLMs_with_Python.ipynb)
-> Replace `<YOUR_GITHUB_USERNAME>/<YOUR_REPO>` after you push the notebook.
-
 A clean, reproducible notebook for **question-answering over your documents**. It shows a minimal **RAG** (Retriever-Augmented Generation) pipeline: load documents → split into chunks → embed → index in a vector store → retrieve top passages → generate answers with sources. Built and tested in **Google Colab**, runs locally as well.
 
 ---
@@ -30,3 +27,29 @@ flowchart LR
   D --> E[Retriever (top-k)]
   E --> F[LLM (OpenAI or HF Transformers)]
   F --> G[Answer + Cited Passages]
+```
+
+## 🗂️ Data
+Put files in a local data/ directory (git-ignore it) or upload/mount in Colab.
+Example cell paths in the notebook already reference data/….
+If you prefer Drive in Colab, mount it with
+
+
+## 🚀 Run
+In Google Colab
+Click the Colab badge above.
+Upload files or mount Drive.
+Runtime → Run all.
+
+##📦 Requirements
+See requirements.txt in this repo.
+
+## 🛡️ License
+  MIT
+
+
+## 🙌 Author
+Nikita Marshchonok
+GitHub: https://github.com/NikitaMarshchonok
+LinkedIn: https://www.linkedin.com/in/nikita-marshchonok
+Email: n.marshchonok@gmail.com
