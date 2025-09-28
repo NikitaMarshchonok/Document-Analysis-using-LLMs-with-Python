@@ -48,8 +48,3 @@ See requirements.txt in this repo.
   MIT
 
 
-## 🙌 Author
-Nikita Marshchonok
-GitHub: https://github.com/NikitaMarshchonok
-LinkedIn: https://www.linkedin.com/in/nikita-marshchonok
-Email: n.marshchonok@gmail.com
