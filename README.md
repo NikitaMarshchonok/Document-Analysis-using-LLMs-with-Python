@@ -1,3 +1,6 @@
+# Document Analysis with LLMs (RAG, Q&A)
+
+A clean, reproducible notebook for **question-answering over your documents**. It shows a minimal **RAG** (Retriever-Augmented Generation) pipeline: load documents → split into chunks → embed → index in a vector store → retrieve top passages → generate answers with sources. Built and tested in **Google Colab**, runs locally as well.
 
 ---
 
