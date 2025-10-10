@@ -43,8 +43,6 @@ Runtime → Run all.
 ##📦 Requirements
 See requirements.txt in this repo.
 
-## 🛡️ License
-  MIT
   
 ## 🙌 Author
 Nikita Marshchonok
