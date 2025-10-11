@@ -16,6 +16,8 @@ A clean, reproducible notebook for **question-answering over your documents**. I
 
 ---
 
+
+
 ## 🧩 Architecture (high level)
 
 ```
