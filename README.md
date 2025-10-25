@@ -4,13 +4,13 @@ A clean, reproducible notebook for **question-answering over your documents**. I
 
 ---
 
-## ✨ What’s inside
+##  What’s inside
 
 - **Load & preprocess** PDFs/TXT/CSVs (Colab upload or `data/` folder)  
 - **Chunking & embeddings** (Sentence-BERT / OpenAI)  
 - **Vector stores**: **FAISS** or **ChromaDB**  
 - **Retriever** with top-k similarity search  
-- **LLM** inference: **OpenAI** or local **🤗 Transformers**  
+- **LLM** inference: **OpenAI** or local ** Transformers**  
 - Clear cells to **switch providers** and experiment quickly  
 - Optional stubs for a **Gradio / Streamlit** demo UI
 
@@ -18,7 +18,7 @@ A clean, reproducible notebook for **question-answering over your documents**. I
 
 
 
-## 🧩 Architecture (high level)
+##  Architecture (high level)
 
 ```
 flowchart LR
