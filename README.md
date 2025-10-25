@@ -30,23 +30,23 @@ flowchart LR
   F --> G[Answer + Cited Passages]
 ```
 
-## 🗂️ Data
+##  Data
 Put files in a local data/ directory (git-ignore it) or upload/mount in Colab.
 Example cell paths in the notebook already reference data/….
 If you prefer Drive in Colab, mount it with
 
 
-## 🚀 Run
+##  Run
 In Google Colab
 Click the Colab badge above.
 Upload files or mount Drive.
 Runtime → Run all.
 
-##📦 Requirements
+## Requirements
 See requirements.txt in this repo.
 
   
-## 🙌 Author
+##  Author
 Nikita Marshchonok
 GitHub: https://github.com/NikitaMarshchonok
 LinkedIn: https://www.linkedin.com/in/nikita-marshchonok
